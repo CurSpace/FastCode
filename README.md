@@ -17,6 +17,10 @@ We will experiment with the performance of matrix-vector multiplication with and
 
 ## [Link to Presentation](https://drive.google.com/file/d/1aJwmptZ1-01uMo6yIULTPKlo5PAcS7gO/view?usp=share_link)
 
+# Future Scope:
+
+The use of TACO can be extended to speed up other complicated networks.
+
 # References:
 
 https://towardsdatascience.com/simple-neural-network-implementation-in-c-663f51447547
