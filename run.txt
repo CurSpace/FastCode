@@ -1,0 +1,6 @@
+g++ main_var01.cpp -o main_var01
+
+
+./main_var01 4 4 1 8
+
+./main_var01 numInputs numHiddenNodes numOutputs numTrainingSets
