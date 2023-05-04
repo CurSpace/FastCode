@@ -16,3 +16,13 @@ We will experiment with the performance of matrix-vector multiplication with and
 
 
 ## [Link to Presentation](https://drive.google.com/file/d/1aJwmptZ1-01uMo6yIULTPKlo5PAcS7gO/view?usp=share_link)
+
+# References:
+
+https://towardsdatascience.com/simple-neural-network-implementation-in-c-663f51447547
+http://tensor-compiler.org/docs/index.html
+http://tensor-compiler.org/
+http://tensor-compiler.org/codegen.html
+https://www.javatpoint.com/pytorch-tensors
+https://dl.acm.org/doi/10.1145/3133901
+https://dl.acm.org/doi/pdf/10.1145/3133901
